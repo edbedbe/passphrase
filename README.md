@@ -1,4 +1,4 @@
-Passphrase has moved to Gitlab: https://gitlab.com/elibdev/depo
+Passphrase has moved to Gitlab: https://gitlab.com/elibdev/passphrase
 
 To switch git remotes:
 
